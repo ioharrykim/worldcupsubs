@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/worldcupsubs/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/worldcupsubs/static/js/main.50b1ce2e.chunk.js",
+    "main.js.map": "/worldcupsubs/static/js/main.50b1ce2e.chunk.js.map",
+    "runtime-main.js": "/worldcupsubs/static/js/runtime-main.92eb7ea1.js",
+    "runtime-main.js.map": "/worldcupsubs/static/js/runtime-main.92eb7ea1.js.map",
+    "static/js/2.620c39d0.chunk.js": "/worldcupsubs/static/js/2.620c39d0.chunk.js",
+    "static/js/2.620c39d0.chunk.js.map": "/worldcupsubs/static/js/2.620c39d0.chunk.js.map",
+    "static/js/3.b1fc95da.chunk.js": "/worldcupsubs/static/js/3.b1fc95da.chunk.js",
+    "static/js/3.b1fc95da.chunk.js.map": "/worldcupsubs/static/js/3.b1fc95da.chunk.js.map",
+    "index.html": "/worldcupsubs/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/worldcupsubs/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.620c39d0.chunk.js.LICENSE.txt": "/worldcupsubs/static/js/2.620c39d0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/worldcupsubs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92eb7ea1.js",
+    "static/js/2.620c39d0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.50b1ce2e.chunk.js"
+  ]
+}
